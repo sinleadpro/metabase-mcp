@@ -1,5 +1,5 @@
 {
-  "name": "@jerichosequitin/metabase-mcp",
+  "name": "@cyberbiz-corp/metabase-mcp",
   "version": "1.1.5",
   "description": "A high-performance MCP server for Metabase analytics integration with response optimization and robust error handling",
   "type": "module",
@@ -69,11 +69,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jerichosequitin/metabase-mcp.git"
+    "url": "git+https://github.com/sinleadpro/metabase-mcp.git"
   },
-  "homepage": "https://github.com/jerichosequitin/metabase-mcp#readme",
+  "homepage": "https://github.com/sinleadpro/metabase-mcp#readme",
   "bugs": {
-    "url": "https://github.com/jerichosequitin/metabase-mcp/issues"
+    "url": "https://github.com/sinleadpro/metabase-mcp/issues"
   },
   "license": "MIT",
   "engines": {
